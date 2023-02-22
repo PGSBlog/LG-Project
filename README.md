@@ -8,3 +8,4 @@ https://velog.io/@dbdb_dev/ROS2-ROS2-Foxy-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AD
 https://index.ros.org/r/v4l2_camera/#foxy
 https://gitlab.com/boldhearts/ros2_v4l2_camera
 https://github.com/ROBOTIS-GIT/turtlebot3/issues/863
+https://robofoundry.medium.com/opencv-yolo-object-detection-with-picamera-and-ros2-629d52cfec6
