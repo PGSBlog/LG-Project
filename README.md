@@ -9,4 +9,4 @@
 
 # [LG-WebOS Community!](https://forum.webosose.org/)
 
-# [LG-WebOS Build하면서 발생했던 나의 질문들](https://forum.webosose.org/t/webos-2-19-0-image-build-error/2016)
+# LG-WebOS Build [my question](https://forum.webosose.org/t/webos-2-19-0-image-build-error/2016)
