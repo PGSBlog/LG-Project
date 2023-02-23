@@ -7,6 +7,6 @@
 
 # LG-WebOS(OSE 2.19.0 Version)
 
-# [LG-WebOS Community!](https://forum.webosose.org/)
+# LG-WebOS [Community!](https://forum.webosose.org/)
 
 # LG-WebOS Build [my question](https://forum.webosose.org/t/webos-2-19-0-image-build-error/2016)
