@@ -13,7 +13,9 @@
 
 # 개발환경 세팅하기
 1. [CLI설치](https://www.hyuncello.com/23)
-2. [테스트 예시](https://webos-supporters.tistory.com/49)
+2. [SDK설치](https://www.webosose.org/docs/tools/sdk/beanviser/beanviser-user-guide/)
+3. [디바이스](https://webos-supporters.tistory.com/14)
+4. [테스트 예시](https://webos-supporters.tistory.com/49)
 # 짜투리
 [1.](https://velog.io/@t1won/Ubuntu-%EC%9A%B0%EB%B6%84%ED%88%AC-%ED%95%9C%EA%B8%80-%EC%9E%85%EB%A0%A5-%EB%B0%8F-%ED%95%9C%EC%98%81%ED%82%A4-%EC%84%A4%EC%A0%95)
 [2.](https://hamonikr.org/board_bFBk25/99597)
