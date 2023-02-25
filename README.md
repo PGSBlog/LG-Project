@@ -11,6 +11,16 @@
 
 # LG-WebOS Build [my question](https://forum.webosose.org/t/webos-2-19-0-image-build-error/2016)
 
+# LG-WebOS 사용하기
+1. [SDK](https://www.webosose.org/docs/tools/sdk/cli/cli-user-guide/)
+- 디바이스 셋업
+```
+ares-setup-device
+```
+- 타겟 디바이스 쉘 명령어
+```
+ares-shell -d raspberrypi4
+```
 # 개발환경 세팅하기
 1. [CLI설치](https://www.hyuncello.com/23)
 2. [SDK설치](https://www.webosose.org/docs/tools/sdk/beanviser/beanviser-user-guide/)
